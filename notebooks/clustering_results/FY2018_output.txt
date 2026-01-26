@@ -1,0 +1,414 @@
+=== CLUSTERING ANALYSIS RESULTS FOR FY2018 ===
+
+1. COUNTRY-CATEGORY SIMULTANEOUS CLUSTERING
+==================================================
+Total pairs: 311
+Optimal clusters: 3
+Silhouette score: 0.6207
+
+Cluster Assignments:
+------------------------------
+
+Cluster 0 (288 pairs):
+  Argentina - Consumer (Companies: 17)
+  Australia - Consumer (Companies: 104)
+  Austria - Consumer (Companies: 5)
+  Brazil - Consumer (Companies: 89)
+  Bulgaria - Consumer (Companies: 10)
+  Canada - Consumer (Companies: 66)
+  Chile - Consumer (Companies: 45)
+  China - Consumer (Companies: 845)
+  Colombia - Consumer (Companies: 14)
+  Croatia - Consumer (Companies: 23)
+  Cyprus - Consumer (Companies: 20)
+  Czechia - Consumer (Companies: 2)
+  Denmark - Consumer (Companies: 16)
+  Egypt - Consumer (Companies: 34)
+  Estonia - Consumer (Companies: 3)
+  Finland - Consumer (Companies: 25)
+  France - Consumer (Companies: 84)
+  Germany - Consumer (Companies: 80)
+  Greece - Consumer (Companies: 30)
+  Hungary - Consumer (Companies: 1)
+  India - Consumer (Companies: 816)
+  Indonesia - Consumer (Companies: 156)
+  Ireland - Consumer (Companies: 9)
+  Italy - Consumer (Companies: 59)
+  Japan - Consumer (Companies: 743)
+  Kazakhstan - Consumer (Companies: 2)
+  Latvia - Consumer (Companies: 3)
+  Lithuania - Consumer (Companies: 12)
+  Luxembourg - Consumer (Companies: 10)
+  Malaysia - Consumer (Companies: 184)
+  Malta - Consumer (Companies: 10)
+  Mexico - Consumer (Companies: 38)
+  Morocco - Consumer (Companies: 8)
+  New Zealand - Consumer (Companies: 25)
+  Nigeria - Consumer (Companies: 23)
+  Norway - Consumer (Companies: 13)
+  Pakistan - Consumer (Companies: 146)
+  Philippines - Consumer (Companies: 43)
+  Poland - Consumer (Companies: 82)
+  Portugal - Consumer (Companies: 6)
+  Romania - Consumer (Companies: 29)
+  Russia - Consumer (Companies: 15)
+  Saudi Arabia - Consumer (Companies: 39)
+  Slovakia - Consumer (Companies: 1)
+  Slovenia - Consumer (Companies: 4)
+  South Africa - Consumer (Companies: 44)
+  South Korea - Consumer (Companies: 375)
+  Spain - Consumer (Companies: 20)
+  Sweden - Consumer (Companies: 59)
+  Switzerland - Consumer (Companies: 27)
+  taiwan - Consumer (Companies: 321)
+  Thailand - Consumer (Companies: 162)
+  United Arab Emirates - Consumer (Companies: 9)
+  United Kingdom - Consumer (Companies: 141)
+  United States - Consumer (Companies: 449)
+  Vietnam - Consumer (Companies: 60)
+  Argentina - EnergyAndUtilities (Companies: 17)
+  Australia - EnergyAndUtilities (Companies: 28)
+  Bulgaria - EnergyAndUtilities (Companies: 3)
+  Canada - EnergyAndUtilities (Companies: 110)
+  Chile - EnergyAndUtilities (Companies: 22)
+  China - EnergyAndUtilities (Companies: 232)
+  Croatia - EnergyAndUtilities (Companies: 2)
+  Cyprus - EnergyAndUtilities (Companies: 4)
+  Czechia - EnergyAndUtilities (Companies: 3)
+  Egypt - EnergyAndUtilities (Companies: 1)
+  Estonia - EnergyAndUtilities (Companies: 1)
+  Germany - EnergyAndUtilities (Companies: 17)
+  Greece - EnergyAndUtilities (Companies: 9)
+  Hungary - EnergyAndUtilities (Companies: 3)
+  India - EnergyAndUtilities (Companies: 68)
+  Indonesia - EnergyAndUtilities (Companies: 47)
+  Japan - EnergyAndUtilities (Companies: 52)
+  Lithuania - EnergyAndUtilities (Companies: 5)
+  Luxembourg - EnergyAndUtilities (Companies: 5)
+  Malaysia - EnergyAndUtilities (Companies: 42)
+  Mexico - EnergyAndUtilities (Companies: 2)
+  Morocco - EnergyAndUtilities (Companies: 1)
+  New Zealand - EnergyAndUtilities (Companies: 7)
+  Nigeria - EnergyAndUtilities (Companies: 9)
+  Norway - EnergyAndUtilities (Companies: 27)
+  Pakistan - EnergyAndUtilities (Companies: 27)
+  Philippines - EnergyAndUtilities (Companies: 22)
+  Poland - EnergyAndUtilities (Companies: 16)
+  Romania - EnergyAndUtilities (Companies: 16)
+  Slovenia - EnergyAndUtilities (Companies: 3)
+  South Africa - EnergyAndUtilities (Companies: 3)
+  South Korea - EnergyAndUtilities (Companies: 29)
+  Sweden - EnergyAndUtilities (Companies: 6)
+  Switzerland - EnergyAndUtilities (Companies: 5)
+  taiwan - EnergyAndUtilities (Companies: 11)
+  Thailand - EnergyAndUtilities (Companies: 50)
+  United Arab Emirates - EnergyAndUtilities (Companies: 5)
+  Vietnam - EnergyAndUtilities (Companies: 34)
+  Argentina - Healthcare (Companies: 2)
+  Australia - Healthcare (Companies: 45)
+  Belgium - Healthcare (Companies: 8)
+  Brazil - Healthcare (Companies: 15)
+  Bulgaria - Healthcare (Companies: 5)
+  Canada - Healthcare (Companies: 34)
+  Chile - Healthcare (Companies: 2)
+  China - Healthcare (Companies: 389)
+  Colombia - Healthcare (Companies: 1)
+  Croatia - Healthcare (Companies: 1)
+  Denmark - Healthcare (Companies: 13)
+  Egypt - Healthcare (Companies: 12)
+  Finland - Healthcare (Companies: 8)
+  France - Healthcare (Companies: 32)
+  Germany - Healthcare (Companies: 40)
+  Greece - Healthcare (Companies: 4)
+  Hungary - Healthcare (Companies: 1)
+  India - Healthcare (Companies: 176)
+  Indonesia - Healthcare (Companies: 19)
+  Ireland - Healthcare (Companies: 11)
+  Italy - Healthcare (Companies: 11)
+  Japan - Healthcare (Companies: 101)
+  Luxembourg - Healthcare (Companies: 2)
+  Malaysia - Healthcare (Companies: 23)
+  Mexico - Healthcare (Companies: 2)
+  Morocco - Healthcare (Companies: 1)
+  New Zealand - Healthcare (Companies: 8)
+  Nigeria - Healthcare (Companies: 4)
+  Norway - Healthcare (Companies: 8)
+  Pakistan - Healthcare (Companies: 10)
+  Philippines - Healthcare (Companies: 2)
+  Poland - Healthcare (Companies: 24)
+  Portugal - Healthcare (Companies: 1)
+  Romania - Healthcare (Companies: 4)
+  Russia - Healthcare (Companies: 3)
+  Saudi Arabia - Healthcare (Companies: 9)
+  Slovakia - Healthcare (Companies: 2)
+  Slovenia - Healthcare (Companies: 2)
+  South Africa - Healthcare (Companies: 3)
+  South Korea - Healthcare (Companies: 173)
+  Spain - Healthcare (Companies: 14)
+  Sweden - Healthcare (Companies: 55)
+  Switzerland - Healthcare (Companies: 21)
+  taiwan - Healthcare (Companies: 106)
+  Thailand - Healthcare (Companies: 29)
+  United Arab Emirates - Healthcare (Companies: 3)
+  United Kingdom - Healthcare (Companies: 31)
+  United States - Healthcare (Companies: 268)
+  Vietnam - Healthcare (Companies: 11)
+  Argentina - Industrials (Companies: 6)
+  Australia - Industrials (Companies: 80)
+  Austria - Industrials (Companies: 15)
+  Belgium - Industrials (Companies: 15)
+  Brazil - Industrials (Companies: 49)
+  Bulgaria - Industrials (Companies: 15)
+  Canada - Industrials (Companies: 69)
+  Chile - Industrials (Companies: 21)
+  China - Industrials (Companies: 1135)
+  Colombia - Industrials (Companies: 4)
+  Croatia - Industrials (Companies: 16)
+  Czechia - Industrials (Companies: 3)
+  Denmark - Industrials (Companies: 23)
+  Egypt - Industrials (Companies: 16)
+  Estonia - Industrials (Companies: 6)
+  Finland - Industrials (Companies: 38)
+  France - Industrials (Companies: 79)
+  Germany - Industrials (Companies: 101)
+  Greece - Industrials (Companies: 35)
+  Hungary - Industrials (Companies: 6)
+  India - Industrials (Companies: 590)
+  Indonesia - Industrials (Companies: 99)
+  Japan - Industrials (Companies: 712)
+  Kazakhstan - Industrials (Companies: 1)
+  Latvia - Industrials (Companies: 1)
+  Lithuania - Industrials (Companies: 2)
+  Luxembourg - Industrials (Companies: 4)
+  Malaysia - Industrials (Companies: 220)
+  Malta - Industrials (Companies: 1)
+  Mexico - Industrials (Companies: 16)
+  Morocco - Industrials (Companies: 6)
+  Netherlands - Industrials (Companies: 22)
+  New Zealand - Industrials (Companies: 17)
+  Nigeria - Industrials (Companies: 15)
+  Norway - Industrials (Companies: 29)
+  Pakistan - Industrials (Companies: 22)
+  Philippines - Industrials (Companies: 26)
+  Poland - Industrials (Companies: 113)
+  Portugal - Industrials (Companies: 5)
+  Romania - Industrials (Companies: 30)
+  Russia - Industrials (Companies: 19)
+  Saudi Arabia - Industrials (Companies: 19)
+  Slovakia - Industrials (Companies: 1)
+  Slovenia - Industrials (Companies: 3)
+  South Africa - Industrials (Companies: 27)
+  South Korea - Industrials (Companies: 298)
+  Spain - Industrials (Companies: 28)
+  Sweden - Industrials (Companies: 118)
+  Switzerland - Industrials (Companies: 43)
+  taiwan - Industrials (Companies: 283)
+  Thailand - Industrials (Companies: 145)
+  United Arab Emirates - Industrials (Companies: 10)
+  United Kingdom - Industrials (Companies: 119)
+  United States - Industrials (Companies: 399)
+  Vietnam - Industrials (Companies: 89)
+  Argentina - Materials (Companies: 8)
+  Australia - Materials (Companies: 68)
+  Austria - Materials (Companies: 7)
+  Belgium - Materials (Companies: 10)
+  Brazil - Materials (Companies: 25)
+  Bulgaria - Materials (Companies: 5)
+  Canada - Materials (Companies: 98)
+  Chile - Materials (Companies: 17)
+  China - Materials (Companies: 768)
+  Colombia - Materials (Companies: 7)
+  Cyprus - Materials (Companies: 5)
+  Denmark - Materials (Companies: 4)
+  Egypt - Materials (Companies: 21)
+  Finland - Materials (Companies: 8)
+  France - Materials (Companies: 22)
+  Germany - Materials (Companies: 22)
+  Greece - Materials (Companies: 16)
+  India - Materials (Companies: 578)
+  Indonesia - Materials (Companies: 69)
+  Italy - Materials (Companies: 10)
+  Japan - Materials (Companies: 248)
+  Kazakhstan - Materials (Companies: 3)
+  Lithuania - Materials (Companies: 1)
+  Malaysia - Materials (Companies: 95)
+  Morocco - Materials (Companies: 7)
+  Netherlands - Materials (Companies: 7)
+  New Zealand - Materials (Companies: 3)
+  Nigeria - Materials (Companies: 10)
+  Norway - Materials (Companies: 8)
+  Pakistan - Materials (Companies: 69)
+  Philippines - Materials (Companies: 13)
+  Poland - Materials (Companies: 33)
+  Portugal - Materials (Companies: 4)
+  Romania - Materials (Companies: 17)
+  Russia - Materials (Companies: 30)
+  Saudi Arabia - Materials (Companies: 36)
+  Slovakia - Materials (Companies: 2)
+  Slovenia - Materials (Companies: 2)
+  South Africa - Materials (Companies: 26)
+  South Korea - Materials (Companies: 236)
+  Spain - Materials (Companies: 13)
+  Sweden - Materials (Companies: 18)
+  taiwan - Materials (Companies: 148)
+  Thailand - Materials (Companies: 85)
+  United Arab Emirates - Materials (Companies: 9)
+  United Kingdom - Materials (Companies: 45)
+  United States - Materials (Companies: 126)
+  Vietnam - Materials (Companies: 48)
+  Argentina - RealEstate (Companies: 2)
+  Australia - RealEstate (Companies: 23)
+  Austria - RealEstate (Companies: 3)
+  Belgium - RealEstate (Companies: 20)
+  Brazil - RealEstate (Companies: 10)
+  Bulgaria - RealEstate (Companies: 3)
+  Canada - RealEstate (Companies: 20)
+  China - RealEstate (Companies: 184)
+  Chinese Taipei - RealEstate (Companies: 48)
+  Cyprus - RealEstate (Companies: 2)
+  Denmark - RealEstate (Companies: 5)
+  Egypt - RealEstate (Companies: 16)
+  Estonia - RealEstate (Companies: 2)
+  France - RealEstate (Companies: 29)
+  Germany - RealEstate (Companies: 21)
+  Greece - RealEstate (Companies: 3)
+  Hungary - RealEstate (Companies: 4)
+  India - RealEstate (Companies: 96)
+  Indonesia - RealEstate (Companies: 59)
+  Italy - RealEstate (Companies: 5)
+  Japan - RealEstate (Companies: 93)
+  Lithuania - RealEstate (Companies: 1)
+  Luxembourg - RealEstate (Companies: 6)
+  Malaysia - RealEstate (Companies: 82)
+  Malta - RealEstate (Companies: 2)
+  Mexico - RealEstate (Companies: 11)
+  Morocco - RealEstate (Companies: 4)
+  Netherlands - RealEstate (Companies: 3)
+  Norway - RealEstate (Companies: 5)
+  Pakistan - RealEstate (Companies: 2)
+  Poland - RealEstate (Companies: 16)
+  Portugal - RealEstate (Companies: 2)
+  Romania - RealEstate (Companies: 8)
+  South Korea - RealEstate (Companies: 3)
+  Canada - Telecom (Companies: 83)
+  Chile - Telecom (Companies: 6)
+  China - Telecom (Companies: 856)
+  Colombia - Telecom (Companies: 5)
+  Croatia - Telecom (Companies: 3)
+  Cyprus - Telecom (Companies: 3)
+  Denmark - Telecom (Companies: 15)
+  taiwan - Telecom (Companies: 728)
+
+Cluster 1 (22 pairs):
+  Belgium - Consumer (Companies: 13)
+  Netherlands - Consumer (Companies: 17)
+  Austria - EnergyAndUtilities (Companies: 4)
+  Brazil - EnergyAndUtilities (Companies: 33)
+  Colombia - EnergyAndUtilities (Companies: 8)
+  Denmark - EnergyAndUtilities (Companies: 1)
+  Finland - EnergyAndUtilities (Companies: 2)
+  France - EnergyAndUtilities (Companies: 14)
+  Italy - EnergyAndUtilities (Companies: 20)
+  Kazakhstan - EnergyAndUtilities (Companies: 4)
+  Netherlands - EnergyAndUtilities (Companies: 2)
+  Portugal - EnergyAndUtilities (Companies: 3)
+  Russia - EnergyAndUtilities (Companies: 63)
+  Saudi Arabia - EnergyAndUtilities (Companies: 8)
+  Spain - EnergyAndUtilities (Companies: 14)
+  United Kingdom - EnergyAndUtilities (Companies: 40)
+  United States - EnergyAndUtilities (Companies: 225)
+  Netherlands - Healthcare (Companies: 3)
+  Ireland - Industrials (Companies: 13)
+  Ireland - Materials (Companies: 4)
+  Luxembourg - Materials (Companies: 5)
+  Switzerland - Materials (Companies: 13)
+
+Cluster 2 (1 pairs):
+  Austria - Healthcare (Companies: 1)
+
+
+2. COUNTRY CLUSTERING WITHIN FIXED CATEGORIES
+==================================================
+
+Category: Consumer
+Samples: 58
+Optimal clusters: 2
+Silhouette: 0.7010
+Calinski-Harabasz: 104.23
+Davies-Bouldin: 0.54
+Cluster Distribution:
+  Cluster 0: 48 countries - ['Argentina', 'Australia', 'Austria', 'Brazil', 'Bulgaria', 'Canada', 'Chile', 'China', 'Colombia', 'Croatia', 'Cyprus', 'Czechia', 'Denmark', 'Egypt', 'Estonia', 'Finland', 'Greece', 'Hungary', 'India', 'Indonesia', 'Italy', 'Japan', 'Kazakhstan', 'Latvia', 'Lithuania', 'Luxembourg', 'Malaysia', 'Malta', 'Morocco', 'New Zealand', 'Nigeria', 'Pakistan', 'Philippines', 'Poland', 'Portugal', 'Romania', 'Russia', 'Saudi Arabia', 'Slovakia', 'Slovenia', 'South Africa', 'South Korea', 'Sweden', 'taiwan', 'Thailand', 'United Arab Emirates', 'United Kingdom', 'Vietnam']
+  Cluster 1: 10 countries - ['Belgium', 'France', 'Germany', 'Ireland', 'Mexico', 'Netherlands', 'Norway', 'Spain', 'Switzerland', 'United States']
+
+Category: EnergyAndUtilities
+Samples: 53
+Optimal clusters: 2
+Silhouette: 0.7299
+Calinski-Harabasz: 111.60
+Davies-Bouldin: 0.43
+Cluster Distribution:
+  Cluster 0: 47 countries - ['Argentina', 'Australia', 'Brazil', 'Bulgaria', 'Canada', 'Chile', 'China', 'Colombia', 'Croatia', 'Cyprus', 'Czechia', 'Egypt', 'Estonia', 'France', 'Germany', 'Greece', 'Hungary', 'India', 'Indonesia', 'Italy', 'Japan', 'Kazakhstan', 'Lithuania', 'Luxembourg', 'Malaysia', 'Mexico', 'Morocco', 'Netherlands', 'New Zealand', 'Nigeria', 'Norway', 'Pakistan', 'Philippines', 'Poland', 'Romania', 'Russia', 'Slovenia', 'South Africa', 'South Korea', 'Sweden', 'Switzerland', 'taiwan', 'Thailand', 'United Arab Emirates', 'United Kingdom', 'United States', 'Vietnam']
+  Cluster 1: 6 countries - ['Austria', 'Denmark', 'Finland', 'Portugal', 'Saudi Arabia', 'Spain']
+
+Category: Healthcare
+Samples: 51
+Optimal clusters: 3
+Silhouette: 0.7760
+Calinski-Harabasz: 101.90
+Davies-Bouldin: 0.31
+Cluster Distribution:
+  Cluster 0: 44 countries - ['Argentina', 'Australia', 'Belgium', 'Brazil', 'Bulgaria', 'Canada', 'Chile', 'China', 'Colombia', 'Croatia', 'Denmark', 'Egypt', 'Finland', 'France', 'Germany', 'Greece', 'India', 'Indonesia', 'Italy', 'Japan', 'Malaysia', 'Mexico', 'Morocco', 'New Zealand', 'Nigeria', 'Norway', 'Pakistan', 'Philippines', 'Poland', 'Portugal', 'Romania', 'Russia', 'Saudi Arabia', 'Slovakia', 'Slovenia', 'South Korea', 'Spain', 'Sweden', 'taiwan', 'Thailand', 'United Arab Emirates', 'United Kingdom', 'United States', 'Vietnam']
+  Cluster 1: 6 countries - ['Hungary', 'Ireland', 'Luxembourg', 'Netherlands', 'South Africa', 'Switzerland']
+  Cluster 2: 1 countries - ['Austria']
+
+Category: Industrials
+Samples: 56
+Optimal clusters: 4
+Silhouette: 0.6639
+Calinski-Harabasz: 157.63
+Davies-Bouldin: 0.28
+Cluster Distribution:
+  Cluster 0: 37 countries - ['Argentina', 'Australia', 'Brazil', 'Bulgaria', 'Canada', 'China', 'Colombia', 'Croatia', 'Czechia', 'Egypt', 'Estonia', 'Finland', 'Greece', 'Hungary', 'India', 'Indonesia', 'Japan', 'Kazakhstan', 'Lithuania', 'Malaysia', 'Morocco', 'New Zealand', 'Nigeria', 'Norway', 'Pakistan', 'Poland', 'Romania', 'Saudi Arabia', 'Slovakia', 'Slovenia', 'South Africa', 'South Korea', 'Sweden', 'taiwan', 'Thailand', 'United Kingdom', 'Vietnam']
+  Cluster 1: 17 countries - ['Austria', 'Belgium', 'Chile', 'Denmark', 'France', 'Germany', 'Luxembourg', 'Malta', 'Mexico', 'Netherlands', 'Philippines', 'Portugal', 'Russia', 'Spain', 'Switzerland', 'United Arab Emirates', 'United States']
+  Cluster 2: 1 countries - ['Ireland']
+  Cluster 3: 1 countries - ['Latvia']
+
+Category: Materials
+Samples: 51
+Optimal clusters: 3
+Silhouette: 0.6793
+Calinski-Harabasz: 229.24
+Davies-Bouldin: 0.37
+Cluster Distribution:
+  Cluster 0: 35 countries - ['Argentina', 'Australia', 'Bulgaria', 'Canada', 'Chile', 'China', 'Colombia', 'Cyprus', 'Denmark', 'Egypt', 'Greece', 'India', 'Indonesia', 'Italy', 'Japan', 'Kazakhstan', 'Lithuania', 'Malaysia', 'Morocco', 'New Zealand', 'Nigeria', 'Pakistan', 'Philippines', 'Poland', 'Romania', 'Saudi Arabia', 'Slovakia', 'Slovenia', 'South Korea', 'Spain', 'Sweden', 'taiwan', 'Thailand', 'United Arab Emirates', 'Vietnam']
+  Cluster 2: 13 countries - ['Austria', 'Belgium', 'Brazil', 'Finland', 'France', 'Germany', 'Netherlands', 'Norway', 'Portugal', 'Russia', 'South Africa', 'United Kingdom', 'United States']
+  Cluster 1: 3 countries - ['Ireland', 'Luxembourg', 'Switzerland']
+
+Category: RealEstate
+Samples: 34
+Optimal clusters: 3
+Silhouette: 0.7190
+Calinski-Harabasz: 154.78
+Davies-Bouldin: 0.31
+Cluster Distribution:
+  Cluster 0: 24 countries - ['Argentina', 'Belgium', 'Brazil', 'Bulgaria', 'Chinese Taipei', 'Cyprus', 'Denmark', 'Egypt', 'Estonia', 'Germany', 'Greece', 'Hungary', 'India', 'Indonesia', 'Italy', 'Lithuania', 'Malaysia', 'Malta', 'Morocco', 'Pakistan', 'Poland', 'Portugal', 'Romania', 'South Korea']
+  Cluster 1: 7 countries - ['Australia', 'Austria', 'Canada', 'France', 'Japan', 'Mexico', 'Norway']
+  Cluster 2: 3 countries - ['China', 'Luxembourg', 'Netherlands']
+
+Category: Telecom
+Samples: 8
+Optimal clusters: 2
+Silhouette: 0.3238
+Calinski-Harabasz: 3.56
+Davies-Bouldin: 0.44
+Cluster Distribution:
+  Cluster 0: 7 countries - ['Canada', 'China', 'Colombia', 'Croatia', 'Cyprus', 'Denmark', 'taiwan']
+  Cluster 1: 1 countries - ['Chile']
+
+
+3. SUMMARY STATISTICS
+==================================================
+Analysis Date: 2026-01-24 17:17:56
+Total Fiscal Years Analyzed: 1 (FY2018)
+Categories with clustering: 7
+Best clustering by Silhouette: Healthcare

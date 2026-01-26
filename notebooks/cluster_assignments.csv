@@ -1,0 +1,368 @@
+Cluster,Country,Category
+0,Argentina,Consumer
+0,Australia,Consumer
+0,Austria,Consumer
+0,Belgium,Consumer
+0,Brazil,Consumer
+0,Bulgaria,Consumer
+0,Canada,Consumer
+0,Chile,Consumer
+0,China,Consumer
+0,Colombia,Consumer
+0,Croatia,Consumer
+0,Cyprus,Consumer
+0,Czechia,Consumer
+0,Denmark,Consumer
+0,Egypt,Consumer
+0,Estonia,Consumer
+0,Finland,Consumer
+0,France,Consumer
+0,Germany,Consumer
+0,Greece,Consumer
+0,Hungary,Consumer
+0,India,Consumer
+0,Indonesia,Consumer
+0,Ireland,Consumer
+0,Italy,Consumer
+0,Japan,Consumer
+0,Kazakhstan,Consumer
+0,Latvia,Consumer
+0,Lithuania,Consumer
+0,Luxembourg,Consumer
+0,Malaysia,Consumer
+0,Malta,Consumer
+0,Mexico,Consumer
+0,Morocco,Consumer
+0,Netherlands,Consumer
+0,New Zealand,Consumer
+0,Nigeria,Consumer
+0,Norway,Consumer
+0,Pakistan,Consumer
+0,Philippines,Consumer
+0,Poland,Consumer
+0,Portugal,Consumer
+0,Romania,Consumer
+0,Russia,Consumer
+0,Saudi Arabia,Consumer
+0,Slovakia,Consumer
+0,Slovenia,Consumer
+0,South Africa,Consumer
+0,South Korea,Consumer
+0,Spain,Consumer
+0,Sweden,Consumer
+0,Switzerland,Consumer
+0,taiwan,Consumer
+0,Thailand,Consumer
+0,United Arab Emirates,Consumer
+0,United Kingdom,Consumer
+0,United States,Consumer
+0,Vietnam,Consumer
+0,Argentina,EnergyAndUtilities
+0,Australia,EnergyAndUtilities
+1,Austria,EnergyAndUtilities
+0,Brazil,EnergyAndUtilities
+0,Bulgaria,EnergyAndUtilities
+0,Canada,EnergyAndUtilities
+0,Chile,EnergyAndUtilities
+0,China,EnergyAndUtilities
+0,Colombia,EnergyAndUtilities
+0,Croatia,EnergyAndUtilities
+0,Cyprus,EnergyAndUtilities
+1,Czechia,EnergyAndUtilities
+1,Denmark,EnergyAndUtilities
+0,Egypt,EnergyAndUtilities
+0,Estonia,EnergyAndUtilities
+1,Finland,EnergyAndUtilities
+0,France,EnergyAndUtilities
+0,Germany,EnergyAndUtilities
+0,Greece,EnergyAndUtilities
+0,Hungary,EnergyAndUtilities
+0,India,EnergyAndUtilities
+0,Indonesia,EnergyAndUtilities
+0,Italy,EnergyAndUtilities
+0,Japan,EnergyAndUtilities
+0,Kazakhstan,EnergyAndUtilities
+0,Lithuania,EnergyAndUtilities
+0,Luxembourg,EnergyAndUtilities
+0,Malaysia,EnergyAndUtilities
+0,Malta,EnergyAndUtilities
+0,Mexico,EnergyAndUtilities
+0,Morocco,EnergyAndUtilities
+0,Netherlands,EnergyAndUtilities
+0,New Zealand,EnergyAndUtilities
+0,Nigeria,EnergyAndUtilities
+0,Norway,EnergyAndUtilities
+0,Pakistan,EnergyAndUtilities
+0,Philippines,EnergyAndUtilities
+0,Poland,EnergyAndUtilities
+1,Portugal,EnergyAndUtilities
+0,Romania,EnergyAndUtilities
+0,Russia,EnergyAndUtilities
+1,Saudi Arabia,EnergyAndUtilities
+0,Slovenia,EnergyAndUtilities
+0,South Africa,EnergyAndUtilities
+0,South Korea,EnergyAndUtilities
+1,Spain,EnergyAndUtilities
+0,Sweden,EnergyAndUtilities
+0,Switzerland,EnergyAndUtilities
+0,taiwan,EnergyAndUtilities
+0,Thailand,EnergyAndUtilities
+0,United Arab Emirates,EnergyAndUtilities
+0,United Kingdom,EnergyAndUtilities
+0,United States,EnergyAndUtilities
+0,Vietnam,EnergyAndUtilities
+0,Argentina,Healthcare
+0,Australia,Healthcare
+0,Belgium,Healthcare
+0,Brazil,Healthcare
+0,Bulgaria,Healthcare
+0,Canada,Healthcare
+0,Chile,Healthcare
+0,China,Healthcare
+0,Colombia,Healthcare
+0,Croatia,Healthcare
+0,Denmark,Healthcare
+0,Egypt,Healthcare
+0,Finland,Healthcare
+0,France,Healthcare
+0,Germany,Healthcare
+0,Greece,Healthcare
+0,Hungary,Healthcare
+0,India,Healthcare
+0,Indonesia,Healthcare
+0,Ireland,Healthcare
+0,Italy,Healthcare
+0,Japan,Healthcare
+0,Luxembourg,Healthcare
+0,Malaysia,Healthcare
+0,Mexico,Healthcare
+0,Morocco,Healthcare
+0,Netherlands,Healthcare
+0,New Zealand,Healthcare
+0,Nigeria,Healthcare
+0,Norway,Healthcare
+0,Pakistan,Healthcare
+0,Philippines,Healthcare
+0,Poland,Healthcare
+0,Portugal,Healthcare
+0,Romania,Healthcare
+0,Russia,Healthcare
+0,Saudi Arabia,Healthcare
+0,Slovakia,Healthcare
+0,Slovenia,Healthcare
+0,South Africa,Healthcare
+0,South Korea,Healthcare
+0,Spain,Healthcare
+0,Sweden,Healthcare
+0,Switzerland,Healthcare
+0,taiwan,Healthcare
+0,Thailand,Healthcare
+0,United Arab Emirates,Healthcare
+0,United Kingdom,Healthcare
+0,United States,Healthcare
+0,Vietnam,Healthcare
+0,Argentina,Industrials
+0,Australia,Industrials
+0,Austria,Industrials
+0,Belgium,Industrials
+0,Brazil,Industrials
+0,Bulgaria,Industrials
+0,Canada,Industrials
+0,Chile,Industrials
+0,China,Industrials
+0,Colombia,Industrials
+0,Croatia,Industrials
+0,Cyprus,Industrials
+0,Czechia,Industrials
+0,Denmark,Industrials
+0,Egypt,Industrials
+0,Estonia,Industrials
+0,Finland,Industrials
+0,France,Industrials
+0,Germany,Industrials
+0,Greece,Industrials
+0,Hungary,Industrials
+0,India,Industrials
+0,Indonesia,Industrials
+0,Ireland,Industrials
+0,Japan,Industrials
+0,Kazakhstan,Industrials
+0,Lithuania,Industrials
+0,Luxembourg,Industrials
+0,Malaysia,Industrials
+0,Malta,Industrials
+0,Mexico,Industrials
+0,Morocco,Industrials
+0,Netherlands,Industrials
+0,New Zealand,Industrials
+0,Nigeria,Industrials
+0,Norway,Industrials
+0,Pakistan,Industrials
+0,Philippines,Industrials
+0,Poland,Industrials
+0,Portugal,Industrials
+0,Romania,Industrials
+0,Russia,Industrials
+0,Saudi Arabia,Industrials
+0,Slovakia,Industrials
+0,Slovenia,Industrials
+0,South Africa,Industrials
+0,South Korea,Industrials
+0,Spain,Industrials
+0,Sweden,Industrials
+0,Switzerland,Industrials
+0,taiwan,Industrials
+0,Thailand,Industrials
+0,United Arab Emirates,Industrials
+0,United Kingdom,Industrials
+0,United States,Industrials
+0,Vietnam,Industrials
+0,Argentina,Materials
+0,Australia,Materials
+0,Austria,Materials
+0,Belgium,Materials
+0,Brazil,Materials
+0,Bulgaria,Materials
+0,Canada,Materials
+0,Chile,Materials
+0,China,Materials
+0,Colombia,Materials
+0,Cyprus,Materials
+0,Denmark,Materials
+0,Egypt,Materials
+0,Finland,Materials
+0,France,Materials
+0,Germany,Materials
+0,Greece,Materials
+0,India,Materials
+0,Indonesia,Materials
+1,Ireland,Materials
+0,Italy,Materials
+0,Japan,Materials
+0,Kazakhstan,Materials
+0,Lithuania,Materials
+0,Luxembourg,Materials
+0,Malaysia,Materials
+0,Morocco,Materials
+0,Netherlands,Materials
+0,New Zealand,Materials
+0,Nigeria,Materials
+0,Norway,Materials
+0,Pakistan,Materials
+0,Philippines,Materials
+0,Poland,Materials
+0,Portugal,Materials
+0,Romania,Materials
+0,Russia,Materials
+0,Saudi Arabia,Materials
+0,Slovakia,Materials
+0,Slovenia,Materials
+0,South Africa,Materials
+0,South Korea,Materials
+0,Spain,Materials
+0,Sweden,Materials
+0,Switzerland,Materials
+0,taiwan,Materials
+0,Thailand,Materials
+0,United Arab Emirates,Materials
+0,United Kingdom,Materials
+0,United States,Materials
+0,Vietnam,Materials
+0,Argentina,RealEstate
+0,Australia,RealEstate
+0,Austria,RealEstate
+0,Belgium,RealEstate
+0,Brazil,RealEstate
+0,Bulgaria,RealEstate
+0,Canada,RealEstate
+0,Chile,RealEstate
+0,China,RealEstate
+0,Chinese Taipei,RealEstate
+0,Colombia,RealEstate
+0,Cyprus,RealEstate
+0,Denmark,RealEstate
+0,Egypt,RealEstate
+0,Estonia,RealEstate
+0,Finland,RealEstate
+0,France,RealEstate
+0,Germany,RealEstate
+0,Greece,RealEstate
+0,Hungary,RealEstate
+0,India,RealEstate
+0,Indonesia,RealEstate
+0,Italy,RealEstate
+0,Japan,RealEstate
+0,Lithuania,RealEstate
+0,Luxembourg,RealEstate
+0,Malaysia,RealEstate
+0,Malta,RealEstate
+0,Mexico,RealEstate
+0,Morocco,RealEstate
+0,Netherlands,RealEstate
+0,New Zealand,RealEstate
+0,Nigeria,RealEstate
+0,Norway,RealEstate
+0,Pakistan,RealEstate
+0,Poland,RealEstate
+0,Portugal,RealEstate
+0,Romania,RealEstate
+0,Russia,RealEstate
+0,Saudi Arabia,RealEstate
+0,South Africa,RealEstate
+0,South Korea,RealEstate
+0,Spain,RealEstate
+0,Sweden,RealEstate
+0,Switzerland,RealEstate
+0,Thailand,RealEstate
+0,United Arab Emirates,RealEstate
+0,United Kingdom,RealEstate
+0,United States,RealEstate
+0,Vietnam,RealEstate
+0,Argentina,Telecom
+0,Australia,Telecom
+0,Austria,Telecom
+0,Belgium,Telecom
+0,Brazil,Telecom
+0,Bulgatia,Telecom
+0,Canada,Telecom
+0,Chile,Telecom
+0,China,Telecom
+0,Colombia,Telecom
+0,Croatia,Telecom
+0,Cyprus,Telecom
+0,Czechia,Telecom
+0,Denmark,Telecom
+0,Ireland,Telecom
+0,Italy,Telecom
+0,japan,Telecom
+0,kazartan,Telecom
+0,Latvia,Telecom
+0,Luthunia,Telecom
+0,Luxemb,Telecom
+0,Malay,Telecom
+0,Malta,Telecom
+0,Mexico,Telecom
+0,Moroco,Telecom
+0,Nertheland,Telecom
+0,Nigieria,Telecom
+0,Norway,Telecom
+0,NZ,Telecom
+0,Paskistan,Telecom
+0,Phil,Telecom
+0,Poland,Telecom
+0,Portuga,Telecom
+0,Romania,Telecom
+0,Russia,Telecom
+0,Saudi,Telecom
+0,Slovenia,Telecom
+0,South Af,Telecom
+0,South Korea,Telecom
+0,Spain,Telecom
+0,Sweden,Telecom
+0,Swit,Telecom
+0,taiwan,Telecom
+0,Thailand,Telecom
+0,UAE,Telecom
+0,US,Telecom
+0,Vietnam,Telecom
+0,ỤK,Telecom
