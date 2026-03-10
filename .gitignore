@@ -10,3 +10,5 @@ wheels/
 .venv
 data/
 processed_data/
+*.xlsx
+*.zip
