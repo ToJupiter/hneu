@@ -12,3 +12,6 @@ data/
 processed_data/
 *.xlsx
 *.zip
+misc/
+model_results/
+xlsm_data/
